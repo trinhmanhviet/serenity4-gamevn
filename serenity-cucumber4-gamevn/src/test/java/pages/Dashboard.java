@@ -9,6 +9,9 @@ public class Dashboard {
 	@Step
 	public void verifyLogin() {
 		dashAction.verifyLogin();
+		System.out.println("Demo code new");
 	}
+	
+	// vi du file nay da edit xong nhe
 
 }
